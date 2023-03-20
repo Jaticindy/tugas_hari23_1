@@ -1,0 +1,20 @@
+{
+  "name": "my_hello",
+  "version": "1.0.0",
+  "description": "Tugas_hari23_1",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "mulai": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jaticindy/tugas_hari23_1.git"
+  },
+  "author": "jati.cindy@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jaticindy/tugas_hari23_1/issues"
+  },
+  "homepage": "https://github.com/Jaticindy/tugas_hari23_1#readme"
+}
